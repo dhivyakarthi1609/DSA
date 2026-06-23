@@ -1,0 +1,15 @@
+class ExtractAnInteger{
+    /*
+    https://www.geeksforgeeks.org/problems/extract-the-integers4428/1
+     */
+    ArrayList<String> extractIntegerWorks(String s){
+        ArrayList<String> result = new ArrayList<>();
+        StringBuilder num = new StringBuilder();
+
+        for(char ch: s.toCharArray()){
+            if(){
+
+            }
+        }
+    }
+}
